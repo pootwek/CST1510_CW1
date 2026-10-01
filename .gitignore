@@ -1,6 +1,8 @@
-# Learning material: only each week's LAB folder is uploaded
+# Learning material: by default, only each week's LAB folder is uploaded
 Week */*
 !Week */LAB/
+# Week 2 includes its complete teaching folder.
+!Week 02 - Decisions and Loops/*
 
 # Files that should never be uploaded
 .venv/
