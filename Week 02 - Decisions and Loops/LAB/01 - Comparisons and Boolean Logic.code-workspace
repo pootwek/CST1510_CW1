@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../01 - Comparisons and Boolean Logic"
+		},
+		{
+			"path": "../02 - if, elif, else"
+		},
+		{
+			"path": "../03 - while Loops"
+		},
+		{
+			"path": "../04 - for Loops and range"
+		},
+		{
+			"path": "../DEMO"
+		},
+		{
+			"path": "."
+		}
+	]
+}
