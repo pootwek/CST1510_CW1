@@ -4,6 +4,10 @@ Week */*
 # Week 2 includes its complete teaching folder.
 !Week 02 - Decisions and Loops/*
 
+# Week 5 coursework is uploaded in full.
+!Week 05 - Classes and Objects/
+!Week 05 - Classes and Objects/**
+
 # Files that should never be uploaded
 .venv/
 __pycache__/
