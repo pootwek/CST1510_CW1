@@ -12,6 +12,10 @@ Week */*
 !Week 06 - Pandas/
 !Week 06 - Pandas/**
 
+# Week 7 strings and text manipulation materials are uploaded in full.
+!Week 07 - Strings and Text Manipulation/
+!Week 07 - Strings and Text Manipulation/**
+
 # Files that should never be uploaded
 .venv/
 __pycache__/
